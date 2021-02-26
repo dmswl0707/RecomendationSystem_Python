@@ -1,3 +1,4 @@
-# Recommendation_system_Python
+# contents_based_filtering
 
-파이썬으로 추천시스템 구현
+컨텐츠 기반 필터링 영화 추천 시스템
+
